@@ -1,0 +1,5 @@
+Práctica de GitHub
+
+Nombre: STEVE AMAYO
+Materia: SEMINARIO DE INFORMATICA
+Repositorio creado con las ramas main y dev.
